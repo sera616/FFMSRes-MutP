@@ -22,3 +22,5 @@ Prepare feature file and make the final prediction.
 These two .png files are the detailed workflow of FFMSRes-MutP and MSRes-MutP.
 
 
+# contact:
+If you have any question about this work, please contact gfang0616@njust.edu.cn
